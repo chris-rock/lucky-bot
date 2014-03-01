@@ -1,0 +1,24 @@
+{
+  "name": "lucky-bot",
+  "version": "0.0.0",
+  "description": "lucky-bot =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/julien51/lucky-bot.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/julien51/lucky-bot/issues"
+  },
+  "homepage": "https://github.com/julien51/lucky-bot",
+  "dependencies": {
+    "node-xmpp-server": "0.6.0",
+      "node-units": "0.1.5",
+      "pem": "1.2.2"
+  }
+}
