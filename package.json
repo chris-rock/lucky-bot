@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/julien51/lucky-bot",
   "dependencies": {
-    "node-xmpp-server": "0.6.0",
-      "node-units": "0.1.5",
-      "pem": "1.2.2"
+    "node-xmpp-server": "git+https://github.com/node-xmpp/node-xmpp-server.git",
+    "node-units": "0.1.5",
+    "pem": "1.2.2"
   }
 }
